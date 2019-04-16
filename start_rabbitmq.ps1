@@ -1,0 +1,1 @@
+& docker run -p 15672:15672 rabbitmq:3-management
