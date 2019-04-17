@@ -7,11 +7,13 @@ cup install vscode -y
 cup install googlechrome -y
 cup install nodejs.install -y
 cup install yarn -y
+cup install python -y
 
 
 # Extras useful for devs 
 # cup install winscp -y                      # For SSH / FTP
 # cup install putty.install -y               # For SSH in command line
+# cup install mremoteng -y                   # RDP to servers
 # cup install insomnia-rest-api-client -y    # Testing API endpoints
 # cup install conemu -y                      # Further customizations for powershell
 
